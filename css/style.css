@@ -18,4 +18,9 @@ li a{
 
 li a:hover{
     background-color: blue;
+    color: black;
+}
+
+.menuActivo{
+    background-color: brown;
 }
