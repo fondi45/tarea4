@@ -1,0 +1,21 @@
+ul{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+li a{
+    color: white;
+    display: block;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: blue;
+}
