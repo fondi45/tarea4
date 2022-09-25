@@ -24,3 +24,25 @@ li a:hover{
 .menuActivo{
     background-color: brown;
 }
+
+div{
+    margin: 5px;
+    width: 50% auto;
+    background-color: yellow;
+    color: red;
+}
+
+div h1{
+    color: greenyellow;
+    text-align: center;
+    font-size: 40px;
+}
+
+div section{
+    margin: 10px 20px;
+}
+
+section h2{
+    color: aquamarine;
+    font-size: 35px;
+}
