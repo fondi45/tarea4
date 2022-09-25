@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: yellow;
+    background-color: orange;
 }
 
 ul{
@@ -33,7 +33,7 @@ li a:hover{
 div{
     margin: 5px;
     width: 50% auto;
-    background-color: yellow;
+    background-color: orange;
     color: red;
 }
 
